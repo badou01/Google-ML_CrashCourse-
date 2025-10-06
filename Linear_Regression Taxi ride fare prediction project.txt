@@ -1,0 +1,21 @@
+Dans l'exercice de codage suivant, vous allez créer votre propre modèle de régression linéaire à l'aide de la bibliothèque Keras:
+https://developers.google.com/machine-learning/crash-course/linear-regression/programming-exercise?hl=fr
+
+# Colabs
+
+Machine Learning Crash Course uses Colaboratories (Colabs) for all programming exercises. Colab is Google's implementation of [Jupyter Notebook](https://jupyter.org/). For more information about Colabs and how to use them, go to [Welcome to Colaboratory](https://research.google.com/colaboratory).
+
+# Linear Regression
+In this Colab you will use a real dataset to train a model to predict the fare of a taxi ride in Chicago, Illinois.
+
+## Learning Objectives
+After completing this Colab, you'll be able to:
+
+  * Read a .csv file into a [pandas](https://developers.google.com/machine-learning/glossary/#pandas) DataFrame.
+  * Explore a [dataset](https://developers.google.com/machine-learning/glossary/#data_set) with Python visualization libraries.
+  * Experiment with different [features](https://developers.google.com/machine-learning/glossary/#feature) to build a linear regression model.
+  * Tune the model's [hyperparameters](https://developers.google.com/machine-learning/glossary/#hyperparameter).
+  * Compare training runs using [root mean squared error](https://developers.google.com/machine-learning/glossary/#root-mean-squared-error-rmse) and [loss curves](https://developers.google.com/machine-learning/glossary/#loss-curve).
+
+## Dataset Description
+The [dataset for this exercise](https://storage.mtls.cloud.google.com/mlcc-nextgen-internal/chicago_taxi_train.csv) is derived from the [City of Chicago Taxi Trips dataset](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew). The data for this exercise is a subset of the Taxi Trips data, and focuses on a two-day period in May of 2022.
